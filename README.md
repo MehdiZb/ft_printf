@@ -1,5 +1,5 @@
 # ft_printf
-Homemade printf with a variadic function.
+Homemade printf() with a variadic function.
 
 # Features
 
